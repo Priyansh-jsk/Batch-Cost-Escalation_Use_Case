@@ -26,6 +26,8 @@ b.Business Interpretation
 5.Showcase: 
 
 a.Flow of the model
+<img width="998" height="2712" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/9a23fca2-6f5a-49fe-8aa7-c6605352b626" />
+
 
 b.Result validation of the model 
 
