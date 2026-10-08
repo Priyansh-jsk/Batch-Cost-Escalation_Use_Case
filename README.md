@@ -24,7 +24,11 @@ a.Technical Interpretation
 b.Business Interpretation 
 
 5.Showcase: 
+
 a.Flow of the model
+
 b.Result validation of the model 
+
 c.How do you ensure the best model has been selected? 
+
 d.How do you ensure stability & predictability?
